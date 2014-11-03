@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="" />
+    <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+    </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415010900008" ignored="false" />
     <file path="/style.css" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392199390153" ignored="false" />
     <file path="/default.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995849361" ignored="false" />
     <file path="/page.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392286412252" ignored="false" />
-    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415010967842" ignored="false" />
+    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415022311252" ignored="false" />
     <file path="/about.rb" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238428870" ignored="false" />
     <file path="/about.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238819936" ignored="false" />
     <file path="/_config.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1413025992508" ignored="false" />
@@ -63,8 +65,6 @@
     <file path="/undefined_attack.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1413358007922" ignored="false" />
     <file path="/unroll_me_variation.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412928676903" ignored="false" />
     <file path="/spunky_vs_aliens_mobile.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412930186703" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1413358503553" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1413358503553" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="23" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+            <state line="27" column="10" selection-start="674" selection-end="697" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,16 +96,7 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="19" selection-start="234" selection-end="234" vertical-scroll-proportion="0.25028312">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="undefined_attack.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/undefined_attack.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
+            <state line="62" column="88" selection-start="1287" selection-end="1287" vertical-scroll-proportion="-1.214043">
               <folding />
             </state>
           </provider>
@@ -475,14 +466,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+        <state line="27" column="10" selection-start="674" selection-end="697" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="234" selection-end="234" vertical-scroll-proportion="0.25028312">
+        <state line="62" column="88" selection-start="1287" selection-end="1287" vertical-scroll-proportion="-1.214043">
           <folding />
         </state>
       </provider>
