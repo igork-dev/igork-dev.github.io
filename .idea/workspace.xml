@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,7 +98,7 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="159" column="55" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.36466593">
+            <state line="159" column="19" selection-start="3259" selection-end="3259" vertical-scroll-proportion="0.6353341">
               <folding />
             </state>
           </provider>
@@ -470,7 +469,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="55" selection-start="3295" selection-end="3295" vertical-scroll-proportion="0.36466593">
+        <state line="159" column="19" selection-start="3259" selection-end="3259" vertical-scroll-proportion="0.6353341">
           <folding />
         </state>
       </provider>
