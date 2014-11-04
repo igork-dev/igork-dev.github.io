@@ -6,11 +6,11 @@
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415010900008" ignored="false" />
+    <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415092570611" ignored="false" />
     <file path="/style.css" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392199390153" ignored="false" />
     <file path="/default.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995849361" ignored="false" />
     <file path="/page.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392286412252" ignored="false" />
-    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415022311252" ignored="false" />
+    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415092669978" ignored="false" />
     <file path="/about.rb" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238428870" ignored="false" />
     <file path="/about.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238819936" ignored="false" />
     <file path="/_config.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1413025992508" ignored="false" />
@@ -98,7 +98,7 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="0" selection-start="3930" selection-end="3930" vertical-scroll-proportion="0.9422424">
+            <state line="13" column="58" selection-start="273" selection-end="273" vertical-scroll-proportion="0.25028312">
               <folding />
             </state>
           </provider>
@@ -210,6 +210,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,18 +221,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="File.Encoding" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="1g0rrr" serverId="ca1b1917-4233-441d-9a53-40495407f764">
     <servers>
@@ -447,23 +447,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works/undefined_attack.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="22" column="0" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contacts.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="54" selection-start="160" selection-end="160" vertical-scroll-proportion="0.13476783">
-          <folding />
-        </state>
+        <state line="7" column="54" selection-start="160" selection-end="160" vertical-scroll-proportion="0.13476783" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/works/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="119" selection-start="674" selection-end="674" vertical-scroll-proportion="0.019252548">
-          <folding />
-        </state>
+        <state line="38" column="119" selection-start="674" selection-end="674" vertical-scroll-proportion="0.019252548" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
@@ -475,7 +469,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="0" selection-start="3930" selection-end="3930" vertical-scroll-proportion="0.9422424">
+        <state line="13" column="58" selection-start="273" selection-end="273" vertical-scroll-proportion="0.25028312">
           <folding />
         </state>
       </provider>
