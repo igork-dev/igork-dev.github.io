@@ -24,7 +24,7 @@ title: Добро пожаловать!
 <br>
 
 ###Резюме
-( [Download](https://docs.google.com/document/d/1hSTz78aNVfhempcKuyhkHfdlhDWfrKBJ6clKl1-5Wh4/edit?usp=sharing) )
+( [Download](https://docs.google.com/document/d/1hSTz78aNVfhempcKuyhkHfdlhDWfrKBJ6clKl1-5Wh4) )
 
 <br>
 
