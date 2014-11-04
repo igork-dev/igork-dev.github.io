@@ -157,7 +157,7 @@ title: Добро пожаловать!
 * php & highload
 * Git, SVN
 * Art & Usability
-* OOP, Patterns in the context of game-dev
+* OOP, Patterns in the context of game-dev, KISS, SOLID
 * Command Leading
 * Game design
 
