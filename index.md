@@ -182,5 +182,6 @@ title: Добро пожаловать!
 Читаю все письма по этому адресу:
 [igork.develop@gmail.com](igork.develop@gmail.com)
 
+LinkedIn: [https://www.linkedin.com/profile/view?id=190635196](https://www.linkedin.com/profile/view?id=190635196)
 <br>
 

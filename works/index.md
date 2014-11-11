@@ -60,29 +60,6 @@ FragileVasePreview.png
 ---
 
 
-####["Unroll me" variation *(Unity, iOS, Android)*](/works/unroll_me_variation.html)
-
-[ ![ ]({{ site.JB.work_prev_path }}/UnrollMePreview.png) ](/works/unroll_me_variation.html)
-
-**My part:**
-
-* Programming, Technical art
-
-**Technology:**
-
-* Unity, NGUI
-
-**Features**
-
-* Fully completed, but has a technical art and unpublished
-
-* Handy Level Editor
-
-* NGUI interface
-
----
-
-
 ####[Spunky vs Aliens mobile *(Unity, iOS, Android)*](/works/spunky_vs_aliens_mobile.html)
 
 [ ![ ]({{ site.JB.work_prev_path }}/SpunkyMobilePreview.png) ](/works/spunky_vs_aliens_mobile.html)
@@ -106,6 +83,44 @@ FragileVasePreview.png
 * Performance optimization
 
 * Ingame Shop, 3 big bosses, 15 kinds of enemies.
+
+---
+
+####[Unity 3D skill-test for the position of Unity-developer ](/works/unity_skill_test.html)
+
+[ ![ ]({{ site.JB.work_prev_path }}/UnitySkillTestPreview.png) ](/works/unity_skill_test.html)
+
+Published by agreement with the company
+
+**Features**
+
+* Goal: Creating a simple 2d animation editor
+
+* Time: one working week
+
+* Source code: [https://github.com/igork-dev/UnitySkillTest](https://github.com/igork-dev/UnitySkillTest)
+
+---
+
+####["Unroll me" variation *(Unity, iOS, Android)*](/works/unroll_me_variation.html)
+
+[ ![ ]({{ site.JB.work_prev_path }}/UnrollMePreview.png) ](/works/unroll_me_variation.html)
+
+**My part:**
+
+* Programming, Technical art
+
+**Technology:**
+
+* Unity, NGUI
+
+**Features**
+
+* Fully completed, but has a technical art and unpublished
+
+* Handy Level Editor
+
+* NGUI interface
 
 ---
 

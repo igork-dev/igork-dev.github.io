@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacts.md" afterPath="$PROJECT_DIR$/contacts.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415129078220" ignored="false" />
+    <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415704621176" ignored="false" />
     <file path="/style.css" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392199390153" ignored="false" />
     <file path="/default.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995849361" ignored="false" />
     <file path="/page.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392286412252" ignored="false" />
-    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415129096152" ignored="false" />
+    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415705288819" ignored="false" />
     <file path="/about.rb" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238428870" ignored="false" />
     <file path="/about.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238819936" ignored="false" />
     <file path="/_config.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1413025992508" ignored="false" />
     <file path="/works.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392241466004" ignored="false" />
-    <file path="/contacts.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415010913473" ignored="false" />
+    <file path="/contacts.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415705608401" ignored="false" />
     <file path="/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392281363293" ignored="false" />
     <file path="/fragile_vase.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392310558633" ignored="false" />
     <file path="/game.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392287752780" ignored="false" />
@@ -65,8 +68,7 @@
     <file path="/undefined_attack.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1413358007922" ignored="false" />
     <file path="/unroll_me_variation.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412928676903" ignored="false" />
     <file path="/spunky_vs_aliens_mobile.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412930186703" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415109868094" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415109868095" ignored="false" />
+    <file path="/unity_skill_test.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415705482808" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +100,43 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="159" column="19" selection-start="3259" selection-end="3259" vertical-scroll-proportion="0.6353341">
+            <state line="184" column="114" selection-start="4304" selection-end="4304" vertical-scroll-proportion="0.8267271">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apple_cannon.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/apple_cannon.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="126" column="0" selection-start="2257" selection-end="2257" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacts.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contacts.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="173" selection-end="287" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unity_skill_test.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/unity_skill_test.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="7" selection-start="24" selection-end="32" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_i18n/ru.yml" />
         <option value="$PROJECT_DIR$/_includes/JB/pages_list" />
         <option value="$PROJECT_DIR$/__index.md" />
@@ -135,9 +172,10 @@
         <option value="$PROJECT_DIR$/works/spunky_vs_aliens_mobile.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/works/undefined_attack.md" />
-        <option value="$PROJECT_DIR$/works/index.md" />
+        <option value="$PROJECT_DIR$/works/unity_skill_test.md" />
         <option value="$PROJECT_DIR$/contacts.md" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/works/index.md" />
       </list>
     </option>
   </component>
@@ -219,6 +257,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="igork-dev.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="igork-dev.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="igork-dev.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="igork-dev.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -226,12 +288,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="File.Encoding" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="File.Encoding" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="1g0rrr" serverId="ca1b1917-4233-441d-9a53-40495407f764">
     <servers>
@@ -242,11 +304,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Work\igork-dev.github.io\works" />
       <recent name="D:\Dropbox\Work\1g0rrr.github.io" />
       <recent name="D:\Dropbox\Work\1g0rrr.github.io\assets\works" />
       <recent name="D:\Dropbox\Work\1g0rrr.github.io\works" />
       <recent name="D:\Dropbox\Work\1g0rrr.github.io\assets\works\previews" />
-      <recent name="D:\Dropbox\Work\1g0rrr.github.io\_layouts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dropbox\Work\1g0rrr.github.io\assets\works" />
@@ -390,16 +452,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_i18n/it.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="165" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="37" selection-start="902" selection-end="902" vertical-scroll-proportion="0.5635939" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/works/surprize.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="3" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" />
@@ -450,16 +502,6 @@
         <state line="22" column="0" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contacts.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="54" selection-start="160" selection-end="160" vertical-scroll-proportion="0.13476783" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="119" selection-start="674" selection-end="674" vertical-scroll-proportion="0.019252548" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="10" selection-start="674" selection-end="697" vertical-scroll-proportion="0.0">
@@ -467,9 +509,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/works/apple_cannon.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/unity_skill_test.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="24" selection-end="32" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="173" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="0" selection-start="2257" selection-end="2257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="19" selection-start="3259" selection-end="3259" vertical-scroll-proportion="0.6353341">
+        <state line="184" column="114" selection-start="4304" selection-end="4304" vertical-scroll-proportion="0.8267271">
           <folding />
         </state>
       </provider>
