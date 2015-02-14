@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacts.md" afterPath="$PROJECT_DIR$/contacts.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="" />
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1415704621176" ignored="false" />
